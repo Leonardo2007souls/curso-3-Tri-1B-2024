@@ -7,4 +7,5 @@ header{
     border-bottom: solid 2px black;/*borda splida de px preta*/
     padding: 20px;/*espacamento interno*/
     font-size: 35px;/*tamanho da fonte*/
+    color: darkblue;
 }
