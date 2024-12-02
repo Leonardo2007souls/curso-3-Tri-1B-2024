@@ -4,9 +4,7 @@ background-color: rgb(227, 20, 48);/*cor de fundo*/
 font-size: 24px/*tamanho da fonte*/
 }
 header{
-
-
-
-    Border: solid 2px black;/*borda splida de px preta*/
-
+    border-bottom: solid 2px black;/*borda splida de px preta*/
+    padding: 20px;/*espacamento interno*/
+    font-size: 32px;/*tamanho da fonte*/
 }
